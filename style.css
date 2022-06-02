@@ -32,3 +32,15 @@ img{
 	
 }
 
+
+a{
+	color:darkviolet;
+}
+
+a:hover{
+	color:blue;
+}
+
+a:visited{
+	color:aqua;
+}
